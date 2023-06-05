@@ -72,4 +72,7 @@ p{
     display: block;
     margin-top: 20px;
   }
+.navbar{
+    --bs-navbar-toggler-border-color: none;
+}
   
